@@ -1,0 +1,19 @@
+Date,Platform,Sentiment,Location,Engagements,Media Type
+2023-10-01,Twitter,Positive,USA,150,Tweet
+2023-10-01,Facebook,Positive,USA,250,Post
+2023-10-02,Instagram,Neutral,UK,300,Video
+2023-10-02,Twitter,Negative,Canada,50,Tweet
+2023-10-03,Facebook,Positive,USA,450,Post
+2023-10-03,LinkedIn,Positive,India,200,Article
+2023-10-04,Twitter,Neutral,USA,80,Tweet
+2023-10-04,Facebook,Negative,UK,30,Post
+2023-10-05,Instagram,Positive,USA,600,Video
+2023-10-05,TikTok,Positive,USA,1200,Video
+2023-10-06,Twitter,Positive,Canada,180,Tweet
+2023-10-06,Facebook,Neutral,India,120,Post
+2023-10-07,LinkedIn,Positive,Germany,250,Article
+2023-10-08,Twitter,Negative,USA,40,Tweet
+2023-10-08,Instagram,Positive,Germany,700,Video
+2023-10-09,TikTok,Neutral,UK,850,Video
+2023-10-10,Facebook,Positive,USA,550,Post
+2023-10-10,Twitter,Positive,India,220,Tweet
